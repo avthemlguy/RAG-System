@@ -1,0 +1,23 @@
+# Python
+__pycache__/
+*.pyc
+
+# Virtual env
+.venv/
+.python-version
+uv.lock
+.uv/
+
+# FAISS index and vector store
+faiss_store/
+
+# Data files
+data/
+*.pdf
+
+# Editor / OS
+.vscode/
+.DS_Store
+
+
+.env
